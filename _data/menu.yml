@@ -16,14 +16,14 @@ entries:
       show_more_text: see archive...
       show_more_url: archive.html
      
-   - title: big projects
+  - title: big projects
     post_list:
       category: projects
       show_more: true
       show_more_text: see more posts...
       show_more_url: projects-archive.html
-
-    - title: my blender projects
+      
+  - title: my blender projects
      post_list:
       category: blender
       show_more: true
