@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: student//hobbyist 3d artist//rower
+      - title: student//3d art hobbyist//rower
       - title: my personal site
       - title: instagram
         url: https://www.instagram.com/th_thomasholland/
@@ -22,3 +22,8 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
+  - title: big projects
+    entries:
+      - title: extended project qualification: The Creation of a Scientific Podcast
+        url: epq.html
