@@ -13,17 +13,19 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: see archive...
       show_more_url: archive.html
-
-  - title: posts by category
+     
+   - title: big projects
     post_list:
-      category: example2
+      category: projects
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: see more posts...
+      show_more_url: projects-archive.html
 
-  - title: big projects
-    entries:
-      - title: extended project qualification: The Creation of a Scientific Podcast
-        url: epq.html
+  - title: my blender projects
+    post_list:
+      category: blender
+      show_more: true
+      show_more_text: see more posts...
+      show_more_url: blender-archive.html
