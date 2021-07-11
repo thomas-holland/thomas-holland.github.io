@@ -8,7 +8,7 @@ entries:
       - title: instagram
         url: https://www.instagram.com/th_thomasholland/
 
-  - title: my writing posts
+  - title: my posts
     post_list:
       limit: 5
       show_more: true
