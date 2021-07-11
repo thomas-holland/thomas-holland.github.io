@@ -23,8 +23,8 @@ entries:
       show_more_text: see more posts...
       show_more_url: projects-archive.html
 
-  - title: my blender projects
-    post_list:
+    - title: my blender projects
+     post_list:
       category: blender
       show_more: true
       show_more_text: see more posts...
